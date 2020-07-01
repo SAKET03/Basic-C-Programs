@@ -12,5 +12,7 @@ The following list explains the use of each Program :
 6) Array_Length : When executed returns the length of the array.
 7) Array_Matrix_Addition : When executed returns sum of the input matrices.
 8) Array_Search_Element : When executed searches an element and validates its prescence.
-9) 
+9) Call_By_Reference : When executed displays the concept of call by reference in C language.
+10) Call_By_Value : When executed displays the concept of call by value in C language.
+11) Decimal_to_Binary_Converter : When executed converts decimal number to its binary equivalent.
 
